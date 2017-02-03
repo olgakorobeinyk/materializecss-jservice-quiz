@@ -1,0 +1,37 @@
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.counter-block {
+    margin-top: 20px;
+}
+.main-block {
+    width: 80%;
+    margin: auto;
+}
+.right-counter {
+    display: inline-block;
+    float: right;
+    width: 200px;
+    height: 100px;
+}
+.left-counter {
+    display: inline-block;
+    float: left;
+    width:200px;
+    height: 100px;
+}
+.description {
+    height: 60px;
+    text-align: center;
+    background-color: #F2EFED;
+}
+.input-answer {
+    height: 200px;
+}
+.letter {
+    background-color: #b2ebf2;
+}
